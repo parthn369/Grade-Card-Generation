@@ -15,3 +15,7 @@ Associative array creation (key value pair)
 Extracting values of specific grades 
 
 And calculating avg
+ 
+ (or)
+ 
+We can sum database values avg them
